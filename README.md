@@ -10,3 +10,5 @@
 Также свои работы можно опубликовать в рамках конференций [ElConRus](http://ieee.spb.ru/index.php?option=com_content&view=article&id=178:elconrus-2022&catid=42:hot-news) и [Нейроинформатика](http://neuroinfo.ru/index.php/ru/)
 
 Презентация [Темы НИР](https://github.com/iu5git/Science/blob/main/Articles/Темы%20НИР.pdf) для НИР 6 семестра бакалавров ИУ5.
+
+[Методические указания](https://docs.google.com/document/d/1K_LQ0wGEdmgLYuWCgUGan8FSgb9CpxGQ8ud1QzYTcSs/edit) по ВКР
