@@ -48,7 +48,7 @@
 #### Обработка текста 
 1. [Сервис автоматического распознавания речи](https://github.com/iu5git/Science/blob/main/document-management/NLP/ASR.md) в текст ASR. Решение на основе библиотек Nemo, Vosk
 2. [Сервис оптического распознавания символов](https://github.com/iu5git/Science/tree/main/document-management/NLP/OCR.md) из сканированных документов в текст с помощью Tesseract
-3. [Сервис информационного поиска]() в текстовых документах
+3. [Сервис информационного поиска](https://github.com/iu5git/Science/blob/main/document-management/NLP/information-retrieval.md) в текстовых документах
 4. [Сервисы классификации, кластеризации текстов]()
 5. [Сервис извлечения сущностей NER]() из текстов 
 6. [Сервис графового представления знаний](), полученных из текстов
