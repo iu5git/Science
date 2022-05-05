@@ -64,7 +64,7 @@
 
 1. [Сайт](https://github.com/iu5git/Science/blob/main/ecosystem/site.md) кафедры ИУ5
 2. [Система тестирования](https://github.com/iu5git/Science/blob/main/ecosystem/testing.md) студентов по курсам кафедры
-3. Конструктор экспертных систем по курсу МППР/СППР
+3. [Конструктор](https://github.com/iu5git/Science/blob/main/ecosystem/expert-system-constructor.md) экспертных систем по курсу МППР/СППР
 4. Конструкторы и модули методических материалов по курсам кафедры, например семинары по МППР
 5. [Облачный разуматор](https://github.com/iu5git/Science/blob/main/ecosystem/cloud-mind.md) с графическим интерфейсом для создания новых моделей и REST API для использования в приложениях
 
