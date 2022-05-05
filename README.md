@@ -70,5 +70,5 @@
 
 ### 6. Исследования с ГУИМЦ
 1. Сервис заказа сурдопереводчиков
-2. (Тренажер)[https://github.com/iu5git/Science/blob/main/GUIMC/trainer.md] для слабослышащих с определением ошибок произношения
+2. [Тренажер](https://github.com/iu5git/Science/blob/main/GUIMC/trainer.md) для слабослышащих с определением ошибок произношения
 
