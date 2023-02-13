@@ -10,7 +10,7 @@
 
 Для подготовки своих работ рекомендуется ознакомиться с [презентацией](https://github.com/iu5git/Science/blob/main/Articles/Scientific%20articles.pdf) и [роликом](https://www.youtube.com/watch?v=eoJR4g9XxLE) о подготовке научных публикаций, а также поиске научных статей для обзора, журналов и конференций
 
-На кафедре проводится [научная конфереция](http://iu5.bmstu.ru/mod/page/view.php?id=1497).
+На кафедре проводится [научная конфереция](http://iu5.bmstu.ru/course/view.php?id=147). Сборник статей 2022 года доступен по [ссылке](https://iu5.bmstu.net/conference).
 Также свои работы можно опубликовать в рамках конференций [ElConRus](http://ieee.spb.ru/index.php?option=com_content&view=article&id=178:elconrus-2022&catid=42:hot-news) и [Нейроинформатика](http://neuroinfo.ru/index.php/ru/)
 
 Презентация [Темы НИР](https://github.com/iu5git/Science/blob/main/Articles/Темы%20НИР.pdf) для НИР 6 семестра бакалавров ИУ5.
