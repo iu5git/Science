@@ -19,6 +19,7 @@
 
 ## Тематика проектов кафедры
 
+#### [Рекомендации](https://docs.google.com/document/d/1K_LQ0wGEdmgLYuWCgUGan8FSgb9CpxGQ8ud1QzYTcSs/edit) по содержанию ВКРБ и ВКРМ
 #### Примеры дипломных работ прошлых лет можно посмотреть в [bmstu.codes](https://bmstu.codes/iu5/dissertations). [Инструкция](/Detailes/gitlab.md) для входа
 
 ### 1. Геоинформационная система анализа природных ресурсов
