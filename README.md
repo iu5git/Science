@@ -6,21 +6,28 @@
 
 На этой странице можно найти материалы для подготовки научных публикаций в журналах, а также в рамках конференций.
 
-Примеры статей можно посмотреть [здесь](https://github.com/iu5git/Science/blob/main/Articles/Evaluation%20issues%20of%20query%20result%20ranking%20for%20semantic%20search.pdf) и [здесь](https://github.com/iu5git/Science/blob/main/Articles/Tree%20species%20classification.pdf)
+Для **подготовки своих работ** рекомендуется ознакомиться с [презентацией](docs/Scientific%20articles.pdf) и [роликом](https://www.youtube.com/watch?v=eoJR4g9XxLE) о подготовке научных публикаций, а также поиске научных статей для обзора, журналов и конференций
 
-Для подготовки своих работ рекомендуется ознакомиться с [презентацией](https://github.com/iu5git/Science/blob/main/Articles/Scientific%20articles.pdf) и [роликом](https://www.youtube.com/watch?v=eoJR4g9XxLE) о подготовке научных публикаций, а также поиске научных статей для обзора, журналов и конференций
+#### ИИАСУ
+На кафедре проводится [научная конфереция](http://iiasu23.bmstu.ru/ru/) `ИИАСУ`. [Видео](https://www.youtube.com/watch?v=Qulq6_1vpzA&list=PLLELLTvDgUQ9yP7IeVDy3gZagzPKhLGDt&index=2) для подготовки статей для `ИИАСУ`
 
-На кафедре проводится [научная конфереция](http://iu5.bmstu.ru/course/view.php?id=147). Сборник статей 2022 года доступен по [ссылке](https://iu5.bmstu.net/conference).
-Также свои работы можно опубликовать в рамках конференций [ElConRus](http://ieee.spb.ru/index.php?option=com_content&view=article&id=178:elconrus-2022&catid=42:hot-news) и [Нейроинформатика](http://neuroinfo.ru/index.php/ru/)
+#### Конференции
+Также свои работы можно опубликовать в рамках конференций 
+- [ElConRus](http://ieee.spb.ru/index.php?option=com_content&view=article&id=178:elconrus-2022&catid=42:hot-news) в ЛЭТИ/МИЭТ. [Пример статьи](Articles/ElConRus.pdf)
+- [Нейроинформатика](http://neuroinfo.ru/index.php/ru/) в МФТИ. [Пример статьи](Articles/Neuroinformatics.pdf)
+- [REEPE](https://reepe.mpei.ru/IEEE/Pages/default.aspx) в МЭИ. [Пример статьи](Articles/REEPE.pdf)
+- [ITTCS](https://easychair.org/cfp/ITTCS22) в Иннополис. [Пример статьи](Articles/ITTCS.pdf)
 
-Презентация [Темы НИР](https://github.com/iu5git/Science/blob/main/Articles/Темы%20НИР.pdf) для НИР 6 семестра бакалавров ИУ5.
+#### Журналы
+- У кафедры есть журнал [Динамика сложных систем](http://radiotec.ru/ru/journal/Dynamics_of_Difficult_Systems–XXI_century) для публикации статей ВАК
+- Статьи РИНЦ авторы кафедры часто публикуют в журнале [Тенденции развития науки и образования](https://ljournal.org/recenziruemyj-nauchnyj-zhurnal-tendencii-razvitiya-nauki-i-obrazovaniya-96-04-2023-rinc-doi/)
 
-[Методические указания](https://docs.google.com/document/d/1K_LQ0wGEdmgLYuWCgUGan8FSgb9CpxGQ8ud1QzYTcSs/edit) по ВКР
 
 ## Тематика проектов кафедры
 
-#### [Рекомендации](https://docs.google.com/document/d/1K_LQ0wGEdmgLYuWCgUGan8FSgb9CpxGQ8ud1QzYTcSs/edit) по содержанию ВКРБ и ВКРМ
-#### Примеры дипломных работ прошлых лет можно посмотреть в [bmstu.codes](https://bmstu.codes/iu5/dissertations). [Инструкция](/Detailes/gitlab.md) для входа
+- Презентация [Темы НИР](docs/Темы%20НИР.pdf)
+- [Рекомендации](https://docs.google.com/document/d/1K_LQ0wGEdmgLYuWCgUGan8FSgb9CpxGQ8ud1QzYTcSs/edit) по содержанию ВКРБ и ВКРМ
+- Примеры дипломных работ прошлых лет можно посмотреть в [bmstu.codes](https://bmstu.codes/iu5/dissertations). [Инструкция](/Detailes/gitlab.md) для входа
 
 ### 1. Геоинформационная система анализа природных ресурсов
 [Геоинформационная система](https://bmstu.codes/iu5/lidar) сбора и анализа даных о природных ресурсах. Визуализация данных на карте для принятия решений
@@ -75,17 +82,8 @@
 - Научный руководитель: Канев Антон
 1. [Распознавание оружие на видеоизображении](https://bmstu.codes/iu5/infrastructure/department-services/access-security-systems/cctv-system)
 
-### 3. Модульная система электронного документооборота
-- Научный руководитель: Канев Антон
-- Система электронного документооборота с микросервисной архитектурой.
-- Стек технологий: `Python`/`Golang`, `React`, `PostgreSQL`
 
-1. [Сервис информационного поиска](https://bmstu.codes/iu5/InformationRetrieval) в текстовых документах
-2. Сервисы классификации, кластеризации текстов
-3. [Сервис извлечения сущностей NER](https://bmstu.codes/iu5/iu5-nlp/ner-natasha) из текстов 
-4. Сервис [графового представления знаний](https://bmstu.codes/iu5/metagraph), полученных из текстов
-
-### 4. Экосистема кафедральных сервисов
+### 3. Экосистема кафедральных сервисов
 Стек технологий: `Python`/`Golang`, `React`, `PostgreSQL`, `Prometheus` и `Docker`
 
 1. [Система тестирования студентов по курсам кафедры](https://bmstu.codes/iu5/iu5-testing)
@@ -98,7 +96,7 @@
 4. Конструкторы и модули методических материалов по курсам кафедры, например [семинары по МППР](https://bmstu.codes/iu5/infrastructure/department-services/iu5-ecosystem/mppr-web-decision-calculation)
 - Научный руководитель Кротов Юрий Николаевич
 5. [Сайт](http://iiasu23.bmstu.ru) кафедральной конференции ИИАСУ. [Репозиторий](https://bmstu.codes/iu5/infrastructure/department-services/iu5-ecosystem/conference-web-site)
-- Научный руководитель Сухобоков Андрей Валентинович
+- Научный руководитель Сухобоков Андрей Валентинович и Балашов Антон
 6. [Облачный разуматор](https://bmstu.codes/iu5/mivar/razumator) с графическим интерфейсом для создания новых моделей и REST API для использования в приложениях
 - Научный руководитель Варламов Олег Олегович
 7. Система учета учебной нагрузки и составления расписания
@@ -106,6 +104,17 @@
 8. Веб-приложение бронирование аудиторий университета для проведения занятий
 - Научный руководитель Канев Антон
 9. Диалоговые помощники (Яндекс Алиса, VK Маруся) для образования
+
+
+### 4. Исследования по гибридным сопроцессорам
+- Научный руководитель Канев Антон Игоревич
+- [Подробное описание тем](/Detailes/quantum.md)
+- Python, React, PostgreSQL. [Репозиторий](https://bmstu.codes/iu5/infrastructure/fmn)
+1. Система автоматической спектроскопии и калибровки чипов
+- Сервис с API для хранения данных в БД, полученных от криостата (**требуются дипломники**)
+- Анализ тепловых карт: кластеризация данных измерений чипа в криостате (**требуются дипломники**)
+2. Web-калькулятор для квантового компьютера, аналог `IBM Quantum` [qiskit](https://qiskit.org)
+
 
 ### 5. Исследования и проекты с ГУИМЦ
 - Научный руководитель: Канев Антон, Константинов Михаил
@@ -116,6 +125,7 @@
 - Система мониторинга студентов во времени (требуются дипломники)
 
 2. [Тренажер](https://github.com/iu5git/Science/blob/main/Detailes/trainer.md) для слабослышащих с определением ошибок произношения
+- Модуль автоматической проверки заданий (ответы в свободной форме)
 
 ### 6. Новые архитектуры процессов и компьютеров
 
@@ -124,15 +134,6 @@
 - [Подробное описание тем](/Detailes/Elbrus.md)
 1. Требуется разработать веб-сервис `Яндекс REST API` (C++) и подключить базу данных PostgreSQL на кафедральном сервере Эльбрус (`ALT Linux`)  (**требуются дипломники**)
 2. Необходимо разработать фронтенд для одностраничного приложения на персональный компьютер Эльбрус с обращением на веб API  (**требуются дипломники**)
-
-#### Исследования по гибридным сопроцессорам
-- Научный руководитель Канев Антон Игоревич
-- [Подробное описание тем](/Detailes/quantum.md)
-- Python, React, PostgreSQL. [Репозиторий](https://bmstu.codes/iu5/infrastructure/fmn)
-1. Сервис с API для хранения данных в PostgreSQL, полученных от криостата (**требуются дипломники**)
-2. Web-калькулятор для гибридного сопроцессора наподобие [qiskit](https://qiskit.org)
-3. Анализ тепловых карт: кластеризация данных измерений чипа в криостате (**требуются дипломники**) 
-4. Сингл-шоты: кластеризация калибровочных кривых кубитов (**требуются дипломники**)
 
 ### 7. Обработка медицинских данных
 
