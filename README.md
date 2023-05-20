@@ -28,6 +28,7 @@
 - Презентация [Темы НИР](docs/Темы%20НИР.pdf)
 - [Рекомендации](https://docs.google.com/document/d/1K_LQ0wGEdmgLYuWCgUGan8FSgb9CpxGQ8ud1QzYTcSs/edit) по содержанию ВКРБ и ВКРМ
 - Примеры дипломных работ прошлых лет можно посмотреть в [bmstu.codes](https://bmstu.codes/iu5/dissertations). [Инструкция](/Detailes/gitlab.md) для входа
+- [Регистрация в государственном реестре ПО](https://rospatent.gov.ru/ru/stateservices/gosudarstvennaya-registraciya-programmy-dlya-elektronnyh-vychislitelnyh-mashin-ili-bazy-dannyh-i-vydacha-svidetelstv-o-gosudarstvennoy-registracii-programmy-dlya-elektronnyh-vychislitelnyh-mashin-ili-bazy-dannyh-ih-dublikatov)
 
 ### 1. Геоинформационная система анализа природных ресурсов
 [Геоинформационная система](https://bmstu.codes/iu5/lidar) сбора и анализа даных о природных ресурсах. Визуализация данных на карте для принятия решений
