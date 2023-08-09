@@ -13,6 +13,9 @@
 
 #### Конференции
 Также свои работы можно опубликовать в рамках конференций 
+
+[Пример структуры статьи](Example.md) для международной конференции 
+
 - [ElConRus](http://ieee.spb.ru/index.php?option=com_content&view=article&id=178:elconrus-2022&catid=42:hot-news) в ЛЭТИ/МИЭТ. [Пример статьи](Articles/ElConRus.pdf)
 - [Нейроинформатика](http://neuroinfo.ru/index.php/ru/) в МФТИ. [Пример статьи](Articles/Neuroinformatics.pdf)
 - [REEPE](https://reepe.mpei.ru/IEEE/Pages/default.aspx) в МЭИ. [Пример статьи](Articles/REEPE.pdf)
