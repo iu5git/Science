@@ -11,6 +11,8 @@
 #### ИИАСУ
 На кафедре проводится [научная конфереция](http://iiasu23.bmstu.ru/ru/) `ИИАСУ`. [Видео](https://www.youtube.com/watch?v=Qulq6_1vpzA&list=PLLELLTvDgUQ9yP7IeVDy3gZagzPKhLGDt&index=2) для подготовки статей для `ИИАСУ`
 
+- [Пример статьи](Articles/IIASU.pdf)
+
 #### Конференции
 Также свои работы можно опубликовать в рамках конференций 
 
