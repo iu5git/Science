@@ -24,9 +24,12 @@
 - [ITTCS](https://easychair.org/cfp/ITTCS22) в Иннополис. [Пример статьи](Articles/ITTCS.pdf)
 
 #### Журналы
-- У кафедры есть журнал [Динамика сложных систем](http://radiotec.ru/ru/journal/Dynamics_of_Difficult_Systems–XXI_century) для публикации статей ВАК
+- Статьи ВАК можно опубликовать в журнале [Динамика сложных систем](http://radiotec.ru/ru/journal/Dynamics_of_Difficult_Systems–XXI_century) 
 - Статьи РИНЦ авторы кафедры часто публикуют в журнале [Тенденции развития науки и образования](https://ljournal.org/recenziruemyj-nauchnyj-zhurnal-tendencii-razvitiya-nauki-i-obrazovaniya-96-04-2023-rinc-doi/)
 
+#### Для аспирантов
+- [Перечень рецензируемых научных изданий по состоянию на 18.03.2025](https://vak.minobrnauki.gov.ru/uploader/loader?type=19&name=91107547002&f=36715)
+- Диссертационный совет МГТУ по 2.3.5 [Файлы диссертаций и авторефератов](https://bmstu.ru/svedendoc/disser/index.php?q=board_postgraduates&board_id=38)
 
 ## Выпускные квалификационные (Дипломные) работы
 
